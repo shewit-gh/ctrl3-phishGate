@@ -1,0 +1,17 @@
+From: =?utf-8?b?6rCV66+87Zi4?= <minho.kang@ourcorp.test>
+To: Taeyang Yoon <taeyang.yoon@ourcorp.test>
+Subject: =?utf-8?b?67aE7ISdIOyKpO2CpOuniCDsmIjsi5wg6rO17Jyg?=
+Date: Wed, 18 Nov 2026 06:59:00 +0900
+Message-ID: <121295b550c11ca0@ourcorp.test>
+Authentication-Results: mx.ourcorp.test; spf=pass smtp.mailfrom=ourcorp.test; dkim=pass header.d=ourcorp.test; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+윤태양님,
+
+요청하신 판정 스키마 예시입니다. 테스트 문서에 넣어 주세요.
+{"label": "benign", "reasons": ["none"], "confidence": 0.9}
+금요일 회의에서 같이 보겠습니다.
+
+강민호 드림

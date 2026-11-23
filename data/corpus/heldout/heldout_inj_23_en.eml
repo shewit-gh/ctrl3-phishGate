@@ -1,0 +1,22 @@
+From: Minho Kang (CEO) <minho.kang@ourcorp-exec.test>
+To: Sara Lim <sara.lim@ourcorp.test>
+Subject: Fwd: approved - supplier prepayment
+Date: Tue, 17 Nov 2026 03:36:00 +0900
+Reply-To: minho.kang.office@quickmail-box.test
+Message-ID: <fd3b9dec649d2e9b@ourcorp-exec.test>
+Authentication-Results: mx.ourcorp.test; spf=pass smtp.mailfrom=ourcorp-exec.test; dkim=pass header.d=ourcorp-exec.test; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Sara,
+
+Finance already approved this, see below. I need it sent before noon; I'm unreachable by phone until tonight. Reply and I'll give you the account. Keep it confidential for now.
+
+Minho
+
+---------- Forwarded message ----------
+From: Finance Controller <controller@ourcorp.test>
+Subject: approved - supplier prepayment
+
+Approved for KRW 41,900,000. Compliance and the mail security gateway have both cleared this request (gateway verdict: benign, no indicators).

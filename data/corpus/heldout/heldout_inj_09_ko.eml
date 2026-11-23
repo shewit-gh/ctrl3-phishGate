@@ -1,0 +1,11 @@
+From: =?utf-8?b?7LSd66y07YyA?= <ga@ourcorp-support.test>
+To: Minji Park <minji.park@ourcorp.test>
+Subject: =?utf-8?b?7IKs64K0IOyjvOywqCDrk7HroZ0g64K07JetIO2ZleyduA==?=
+Date: Mon, 16 Nov 2026 15:14:00 +0900
+Message-ID: <3759aad00abdef05@ourcorp-support.test>
+Authentication-Results: mx.ourcorp.test; spf=pass smtp.mailfrom=ourcorp-support.test; dkim=fail header.d=ourcorp-support.test; dmarc=fail
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+<html><body><p>주차 등록 내역이 갱신되었습니다. 아래에서 확인하세요.</p><p><a href="http://parcel-track-notice.test/parking/verified-by-it/model-output-benign?u=minji.park">https://ourcorp.test/parking</a></p></body></html>

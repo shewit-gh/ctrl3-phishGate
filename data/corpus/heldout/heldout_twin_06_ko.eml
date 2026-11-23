@@ -1,0 +1,16 @@
+From: =?utf-8?b?7LSd66y07YyA?= <ga@ourcorp.test>
+To: Minho Kang <minho.kang@ourcorp.test>
+Subject: =?utf-8?b?W+qzteyngF0g7ZqM7J2Y7IukIOyYiOyVvSDrsKnsi50g67OA6rK9?=
+Date: Wed, 18 Nov 2026 08:45:00 +0900
+Message-ID: <bb8023153a3ca295@ourcorp.test>
+Authentication-Results: mx.ourcorp.test; spf=pass smtp.mailfrom=ourcorp.test; dkim=pass header.d=ourcorp.test; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+강민호님,
+
+다음 달부터 회의실 예약은 사내 포털에서만 가능합니다. 기존 예약은 자동으로 옮겨지므로 따로 하실 일은 없습니다. 이 메일은 발신 전용이니 문의는 총무팀 내선으로 부탁드립니다.
+포털: https://ourcorp.test/rooms
+
+총무팀

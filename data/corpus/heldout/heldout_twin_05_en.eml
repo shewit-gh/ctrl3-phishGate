@@ -1,0 +1,16 @@
+From: Accounts Team <accounts@acme-widgets.test>
+To: Sara Lim <sara.lim@ourcorp.test>
+Subject: Corrected invoice 2026-7741
+Date: Wed, 18 Nov 2026 07:52:00 +0900
+Message-ID: <bd4ee6fff9209a3e@acme-widgets.test>
+Authentication-Results: mx.ourcorp.test; spf=pass smtp.mailfrom=acme-widgets.test; dkim=pass header.d=acme-widgets.test; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Dear Sara,
+
+Please disregard the invoice we sent on Monday; it listed the wrong purchase order number. The corrected invoice is 2026-7741. The amount and the 30-day terms are unchanged, and our bank details are the same as always. Reply to this mail if anything is unclear.
+
+Best regards,
+Accounts Team

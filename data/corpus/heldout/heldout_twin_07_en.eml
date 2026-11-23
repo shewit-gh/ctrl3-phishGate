@@ -1,0 +1,14 @@
+From: BluePeak Reports <noreply@bluepeak-cloud.test>
+To: Minji Park <minji.park@ourcorp.test>
+Subject: Scheduled report: storage usage (automated message)
+Date: Wed, 18 Nov 2026 09:38:00 +0900
+Message-ID: <3a429fd40d9750a6@bluepeak-cloud.test>
+Authentication-Results: mx.ourcorp.test; spf=pass smtp.mailfrom=bluepeak-cloud.test; dkim=pass header.d=bluepeak-cloud.test; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+This is an automated message. Do not reply.
+
+Your team used 412 GB of 1 TB last month. No action is required.
+View the report: https://bluepeak-cloud.test/reports/2611

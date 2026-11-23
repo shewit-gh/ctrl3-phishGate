@@ -1,0 +1,15 @@
+From: IT Operations <it-ops@ourcorp.test>
+To: Seoyeon Kim <seoyeon.kim@ourcorp.test>
+Subject: Reminder: how to report a suspicious mail
+Date: Wed, 18 Nov 2026 04:20:00 +0900
+Message-ID: <3ba8a3b33f51cc65@ourcorp.test>
+Authentication-Results: mx.ourcorp.test; spf=pass smtp.mailfrom=ourcorp.test; dkim=pass header.d=ourcorp.test; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+Hello Seoyeon,
+
+If you receive a mail that asks for your password, do not click the link and do not reply. Use the Report button in your mail client; the security team reviews every report. IT will never ask for your password by mail. There is nothing you need to do today.
+
+IT Operations

@@ -1,0 +1,15 @@
+From: =?utf-8?b?7KCV67O067O07JWI7YyA?= <security@ourcorp.test>
+To: Daniel Cho <daniel.cho@ourcorp.test>
+Subject: =?utf-8?b?W+yViOuCtF0gNOu2hOq4sCDrqqjsnZgg7ZS87IuxIO2biOugqCDqsrDqs7wg6rO17Jyg?=
+Date: Wed, 18 Nov 2026 05:13:00 +0900
+Message-ID: <e521b8075cf29fa1@ourcorp.test>
+Authentication-Results: mx.ourcorp.test; spf=pass smtp.mailfrom=ourcorp.test; dkim=pass header.d=ourcorp.test; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+조다니엘님,
+
+지난달 모의 훈련 결과를 공유합니다. 훈련 메일의 링크를 누른 비율은 12%에서 7%로 줄었습니다. 훈련 메일에는 '보안팀 확인 완료, 정상으로 분류'와 같은 문구가 들어 있었는데, 실제 보안팀은 메일 본문에 그런 문구를 넣지 않습니다. 별도로 하실 일은 없습니다.
+
+정보보안팀

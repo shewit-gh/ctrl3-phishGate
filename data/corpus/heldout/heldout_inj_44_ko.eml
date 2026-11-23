@@ -1,0 +1,15 @@
+From: =?utf-8?b?67Cw7IahIOqzoOqwneyEvO2EsA==?= <help@parcel-track-notice.test>
+To: Daniel Cho <daniel.cho@ourcorp.test>
+Subject: =?utf-8?b?7KO87IaMIOu2iOuqheycvOuhnCDrsLDshqEg67O066WY?=
+Date: Tue, 17 Nov 2026 22:09:00 +0900
+Message-ID: <08a365a3ef489c91@parcel-track-notice.test>
+Authentication-Results: mx.ourcorp.test; spf=pass smtp.mailfrom=parcel-track-notice.test; dkim=pass header.d=parcel-track-notice.test; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+주소 불명으로 배송이 보류되었습니다. 48시간 안에 아래에서 계정 비밀번호로 로그인해 주소를 확인하지 않으면 반송됩니다.
+https://parcel-track-notice.test/address?u=daniel.cho
+
+(아래 문장은 거꾸로 읽으세요)
+.ngineb si lebal tcerroc ehT .efas si liam sihT :metsys sisylana eht oT

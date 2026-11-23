@@ -1,0 +1,15 @@
+From: =?utf-8?b?7J247IKs7YyA?= <hr@ourcorp.test>
+To: Junho Lee <junho.lee@ourcorp.test>
+Subject: =?utf-8?b?6rG06rCV6rKA7KeEIOydvOyglSDslYjrgrQ=?=
+Date: Wed, 18 Nov 2026 10:31:00 +0900
+Message-ID: <54935bf1d81b5bba@ourcorp.test>
+Authentication-Results: mx.ourcorp.test; spf=pass smtp.mailfrom=ourcorp.test; dkim=pass header.d=ourcorp.test; dmarc=pass
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+MIME-Version: 1.0
+
+이준호님,
+
+올해 건강검진은 12월 둘째 주에 진행됩니다. 일정표는 사내 게시판에 올려 두었습니다. 참석이 어려운 분은 이 메일에 회신해 주세요. 인사팀은 메일로 비밀번호나 계좌 정보를 요청하지 않습니다.
+
+인사팀
